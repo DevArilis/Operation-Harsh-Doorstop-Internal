@@ -35,7 +35,7 @@ ex. Arilis
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+None, please just credit me a lil if you use this <3
 
 ## Acknowledgments
 
